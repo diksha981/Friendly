@@ -1,0 +1,404 @@
+body{
+	background-color: #e9ebee !important;
+}
+
+.container {
+  height: 500px;
+ 
+  
+  }
+  #header {
+  background-color: #4267b2;
+  height: 25px;
+}
+#white-text {
+	color:white;
+}
+footer {
+  background-color: #e9ebee );
+  height: 30px;
+}
+#wrapper {
+  margin-top: 20px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+  height: 500px;
+}
+
+#main { background-color: orange; }
+
+#menu { background-color: pink; }
+
+#sidebar { background-color: yellow; }
+#main,
+#menu,
+#sidebar {
+  background-color: #e9ebee;
+}
+
+
+}
+
+.navbar-form .form-group {
+    display: inline-block;
+    width:100px;
+    vertical-align: middle;
+    height: 25px;
+    margin-top:6px;
+}
+*input form end*/
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    background-color:#3b5998;
+}
+.navbar{
+       background-color:#3b5998; 
+}
+.navbar-default .navbar-nav>li>a {
+    color:white;
+    font-weight: normal;
+    display: block;
+    
+   
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color:white;
+    display: block;
+    background-color: #133b8f;
+}
+.navbar-default .navbar-brand {
+    color:white;
+    padding-left: 50px;
+}
+.btn-default {                            /*button of search bar*/
+    color: #333;
+    background-color:#f6f7f9;
+    border-color:white;
+    margin-left: -55px;
+    border-left:none;
+    height: 30px;
+    width:50px;
+    text-align: center;
+    margin-top:0px;
+    
+}
+.icon-fb{
+    height: 30px;
+    width: 30px;
+    margin-right: -25px;
+	padding: 1px ;
+    
+}
+.big-icon{                             /*    glyphicons in nav bar*/
+    font-size: 20px;
+}
+.big-icon1{                            /*dropdown buttons glyphicon*/
+    font-size: 22px;
+    color: white;
+} 
+.icon-nav{                             /* User image icon in nav bar */
+    height: 25px;
+    width: 25px;
+    margin-right: 3px;
+  
+}
+ 
+.btn-set{
+    background-color: transparent;       /* Dropdown btn in nav bar */
+    border: none;
+    margin-top: 12px;
+}
+.drop-caret{                           /*Caret of drpodown btn*/
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+.notifi{
+    height: 15px;
+    width: 10px;
+    background-color: #fa3e3e;
+    border-radius: 2px;
+    color: #fff;
+    padding: 1px 3px;
+    margin-top: 27px;
+    margin-left: -20px;
+}
+.glyphicon {
+    font-size: 20px;
+}
+<!-----------------------------------------middle side--------------------------------------->
+<!-------part 1----->
+.panel-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    margin-top: 0px;
+    
+}
+.logo{
+	background-color: white !important;
+}
+.panel-footer{
+	height: 30px;
+	background-color: white !important;
+}
+.panel{
+    margin-bottom: -10px;
+}
+.panel-default{
+    color: #333;
+    background-color: white;
+    border-color: blue;;
+    margin-top: 10px;
+}
+.phm{
+    margin-right: 20px;
+
+}
+.border{
+    border-right: 1px solid blue;
+}
+.glyphicon {
+	font-size:15px;
+}
+.pic{
+	height: 40px;
+	width: 40px;
+	margin-right: 10px;
+}
+.panel-footer {
+    padding: 0px 5px;
+    background-color: white;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    
+    margin-top: 15px;
+    height: 40px;
+}
+.check{
+	height: 15px;
+	width: 19px;
+	padding-right: 2px;
+	margin-right: 5px;
+}
+.check1{
+	height: 17px;
+	width: 19px;
+	padding-left: 0px;
+	margin-left: 9px;
+}
+
+
+<!-------part 1 ends---------->
+
+
+.panel-body .glyphicon {
+    margin-left: 15px;
+    margin-right: 8px;
+}
+
+<!--------------------------------part 2------------------------------>
+
+ .part{
+	margin-top: -20px;
+	
+ }
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.picc{
+	marging-right: 5px;
+}
+.img-size{
+    height: 32px;
+    width: 32px;
+}
+#main  ::-webkit-scrollbar {
+    overflow: auto;
+}
+
+
+
+
+.comment{
+ 
+ background-color:#f6f7f9;
+ margin-top: -15px;
+    padding: 7px;
+	margin-bottom: -10px;
+}
+.media{
+    font-size: 12px;
+}
+.img-size{
+    height: 32px;
+    width: 32px;
+}
+.bold{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-------------------------part 2 ends------------------------------------>
+
+
+<!----------------------------------------middle  ends------------------------------->
+<!------------------------------------------------------------------last starts--------------------------------------->
+.col3-margin{
+    margin-left:-15px;
+    margin-top: -20px;
+    width: 320px;
+}
+.coll3-icons{
+    margin-left: 0px;
+    color:#a2a6ac;
+    margin-right:-5px;
+    
+}
+#trending{
+    color:#a2a6ac;
+    margin-left: -20px;
+   
+ 
+    
+}
+.arrow-color{
+    color:#5890ff;
+    margin-left:-18px;
+    margin-right:-15px;
+}
+.font-size{
+    font-size: 13px;
+    font-weight: bold;
+    color: #705899;
+}
+.span-adj{
+    margin-left: 18px;
+    font-size: 13px;
+     
+}
+.bott-marg{
+    margin-bottom: -8px;
+   
+}
+.glyf-styl{
+    float: right;
+    color:gray;
+}
+#float-right{
+    float: right;
+}
+
+.btnn{
+    color:#1d2129;
+    font-weight: bold;
+    font-size: 12px;
+    background-color:#f6f7f9;
+    border-color:#ced0d4;
+    border-radius:0;
+    border-left:1px solid #ced0d4;
+    margin-left: 0px;
+    margin-top: -40px;
+    height: 27px;
+    width: 100px;
+    text-align: center;
+}
+.glyf-stylbtn{
+        
+    color:gray;
+ 
+}
+#pan2-para{
+    font-size: 13px;
+    color:#a2a6ac; 
+}
+.pnl-bottom{
+ 
+}
+.pnl-btn{
+    float: right;
+    width: 37px;
+    margin-top: -35px;
+    margin-right: -10px;
+    background-color:#f6f7f9;
+    border: 1px solid #d2d8e4;
+    border-radius: 0px;
+}
+.text-size{
+    font-size: 12px;
+}
+
+.nav-tabs>li>a {
+    margin-right: 2px;
+    padding:5px 10px;    
+    border: none;
+    border-radius: 0px 0px 0 0;
+    border-bottom: none;
+}
+.nav-tabs>li>a:hover {
+    background-color: transparent;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color:skyblue;
+    cursor: default;
+    background-color: #fff;
+    border:none;
+    
+   
+}
+.tab-in{
+     margin-top: -23px;
+    margin-left:70px;
+    border: 
+}
+
+
+
+
+<!--------------------------------------------------------------last ends------------------------------------------------->
+
+<!----------------------footer------------>
+.pull-right {
+    float: right!important;
+	float: bottom !important;
+}
+.footer{
+    
+    margin-top: 900px;
+    background-color:transparent;
+ 
+}
+
+
+
+<!---------------------footer ends--------->
